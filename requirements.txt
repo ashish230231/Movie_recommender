@@ -1,0 +1,5 @@
+llama-index==0.14.12
+llama-index-workflows==2.11.6
+torch==2.9.1
+pandas==2.3.2
+gradio==6.3.0
