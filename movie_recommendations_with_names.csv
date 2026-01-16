@@ -1,0 +1,201 @@
+movie_id,title,genre,rating
+101,Fight Club,Horror,1.3
+102,Gladiator,Action,4.8
+103,Star Wars: A New Hope,Comedy,3.7
+104,Star Wars: A New Hope,Drama,4.7
+105,The Dark Knight,Horror,3
+106,The Silence of the Lambs,Animation,3.1
+107,Shutter Island,Thriller,4.3
+108,Pulp Fiction,Comedy,4.9
+109,The Shawshank Redemption,Fantasy,4.6
+110,The Departed,Sci-Fi,2.2
+111,Inception,Fantasy,4.4
+112,Pulp Fiction,Romance,2.5
+113,The Prestige,Horror,4.1
+114,The Departed,Sci-Fi,2.8
+115,The Silence of the Lambs,Sci-Fi,1.7
+116,The Godfather,Romance,2
+117,The Godfather,Thriller,4.1
+118,Forrest Gump,Thriller,2.5
+119,The Silence of the Lambs,Fantasy,3.3
+120,Inception,Comedy,1.8
+121,The Lion King,Horror,3
+122,The Shawshank Redemption,Drama,1.7
+123,Inception,Sci-Fi,3.9
+124,The Social Network,Drama,1.2
+125,Star Wars: A New Hope,Action,3.8
+126,The Matrix Revolutions,Animation,1.3
+127,Interstellar,Drama,1.7
+128,The Matrix Revolutions,Animation,5
+129,Se7en,Romance,2.6
+130,The Social Network,Animation,1.6
+131,Inception,Animation,3.9
+132,The Matrix,Adventure,4.7
+133,Forrest Gump,Fantasy,3
+134,Gladiator,Drama,1.1
+135,Pulp Fiction,Comedy,2.4
+136,The Social Network,Romance,2.1
+137,Forrest Gump,Fantasy,1.9
+138,Star Wars: A New Hope,Action,4.8
+139,The Silence of the Lambs,Comedy,4.4
+140,The Godfather,Fantasy,3.3
+141,Star Wars: A New Hope,Horror,4
+142,The Dark Knight,Romance,4.1
+143,The Silence of the Lambs,Adventure,2.7
+144,The Matrix,Fantasy,4.3
+145,The Dark Knight,Comedy,3.3
+146,The Silence of the Lambs,Comedy,4.5
+147,Avatar,Action,3.6
+148,Shutter Island,Drama,3.9
+149,The Prestige,Comedy,1.5
+150,The Lord of the Rings: The Fellowship of the Ring,Animation,4.9
+151,The Lord of the Rings: The Fellowship of the Ring,Adventure,4.9
+152,The Lord of the Rings: The Fellowship of the Ring,Drama,3.7
+153,The Silence of the Lambs,Comedy,4.9
+154,Fight Club,Fantasy,1
+155,The Social Network,Comedy,4.4
+156,Forrest Gump,Thriller,4.2
+157,The Godfather,Action,4.6
+158,The Prestige,Adventure,3
+159,The Prestige,Adventure,3.1
+160,Star Wars: A New Hope,Adventure,5
+161,Titanic,Drama,3.1
+162,The Departed,Drama,2
+163,Avatar,Fantasy,3.9
+164,The Social Network,Thriller,3.6
+165,The Lord of the Rings: The Fellowship of the Ring,Romance,2.2
+166,The Godfather: Part II,Action,3.9
+167,The Social Network,Comedy,1.1
+168,Se7en,Adventure,2
+169,The Social Network,Romance,1.7
+170,The Empire Strikes Back,Adventure,4.6
+171,Pulp Fiction,Horror,2.2
+172,Schindler's List,Thriller,2.6
+173,The Departed,Drama,3.4
+174,Fight Club,Comedy,3.3
+175,The Matrix Revolutions,Thriller,4
+176,The Silence of the Lambs,Comedy,1.8
+177,Fight Club,Comedy,1.5
+178,The Usual Suspects,Animation,1.1
+179,The Lion King,Sci-Fi,1.2
+180,The Silence of the Lambs,Action,3.8
+181,Shutter Island,Comedy,3.9
+182,The Departed,Fantasy,2.8
+183,Gladiator,Thriller,1.8
+184,Inception,Sci-Fi,4.3
+185,Se7en,Horror,3.8
+186,The Usual Suspects,Animation,2.6
+187,Titanic,Sci-Fi,4.1
+188,The Departed,Action,4.9
+189,The Godfather,Fantasy,4
+190,Pulp Fiction,Adventure,1.9
+191,The Prestige,Horror,4.6
+192,The Empire Strikes Back,Horror,3.9
+193,The Departed,Adventure,3.3
+194,The Departed,Drama,4.7
+195,The Usual Suspects,Drama,1.3
+196,The Dark Knight,Adventure,4.5
+197,Schindler's List,Romance,4
+198,The Matrix,Animation,2.4
+199,The Social Network,Sci-Fi,3.6
+200,The Godfather,Action,1.5
+201,The Godfather,Romance,4.8
+202,Interstellar,Animation,3.9
+203,Star Wars: A New Hope,Thriller,3.3
+204,The Dark Knight,Romance,4.9
+205,Inception,Comedy,2.7
+206,Shutter Island,Thriller,2.8
+207,Avatar,Drama,3.9
+208,The Lord of the Rings: The Fellowship of the Ring,Adventure,2
+209,The Matrix Revolutions,Comedy,3.6
+210,The Lion King,Horror,4.6
+211,The Silence of the Lambs,Drama,3.9
+212,The Prestige,Adventure,4.4
+213,The Matrix,Comedy,4
+214,The Shawshank Redemption,Comedy,2.2
+215,The Matrix,Horror,2.6
+216,The Prestige,Thriller,2.1
+217,The Empire Strikes Back,Thriller,3
+218,The Godfather: Part II,Horror,3
+219,The Departed,Comedy,4.3
+220,The Social Network,Adventure,2.6
+221,Se7en,Drama,4
+222,Pulp Fiction,Drama,4.8
+223,Star Wars: A New Hope,Action,3.4
+224,The Usual Suspects,Animation,4.2
+225,Avatar,Comedy,3.1
+226,Schindler's List,Action,2.4
+227,The Departed,Comedy,1.9
+228,The Dark Knight,Romance,2.8
+229,The Social Network,Drama,1.5
+230,The Matrix Revolutions,Fantasy,3.7
+231,Fight Club,Action,1.2
+232,Star Wars: A New Hope,Fantasy,1.7
+233,The Lion King,Adventure,4.1
+234,Shutter Island,Fantasy,2.4
+235,Fight Club,Thriller,2.1
+236,Gladiator,Adventure,1.2
+237,Inception,Horror,2.6
+238,The Usual Suspects,Adventure,4.9
+239,Inception,Thriller,4.3
+240,The Godfather,Drama,2.2
+241,The Godfather: Part II,Drama,4.2
+242,The Godfather,Comedy,4.5
+243,Star Wars: A New Hope,Animation,4.5
+244,Interstellar,Horror,5
+245,The Dark Knight,Thriller,1.2
+246,Schindler's List,Comedy,3.2
+247,The Shawshank Redemption,Fantasy,3.3
+248,The Godfather: Part II,Drama,1.7
+249,The Lord of the Rings: The Fellowship of the Ring,Drama,3.8
+250,Se7en,Action,4.5
+251,The Social Network,Sci-Fi,1.4
+252,The Empire Strikes Back,Adventure,1.8
+253,Forrest Gump,Action,3.1
+254,The Lion King,Thriller,2.4
+255,The Godfather,Animation,2.7
+256,Shutter Island,Fantasy,2.6
+257,The Social Network,Adventure,4.3
+258,The Lion King,Sci-Fi,2.9
+259,The Godfather,Thriller,1.1
+260,Titanic,Sci-Fi,3.3
+261,The Dark Knight,Animation,3.9
+262,The Godfather: Part II,Drama,2.2
+263,The Empire Strikes Back,Drama,2.4
+264,Fight Club,Horror,2.4
+265,The Usual Suspects,Sci-Fi,3.2
+266,Shutter Island,Romance,1
+267,The Shawshank Redemption,Thriller,1.3
+268,Interstellar,Romance,2.3
+269,The Godfather,Horror,3.9
+270,Gladiator,Romance,2.6
+271,Fight Club,Horror,3.9
+272,Star Wars: A New Hope,Thriller,1.1
+273,The Social Network,Adventure,1.9
+274,The Lion King,Romance,1.9
+275,The Empire Strikes Back,Fantasy,3.1
+276,The Godfather: Part II,Action,4.6
+277,Star Wars: A New Hope,Thriller,2.1
+278,Forrest Gump,Drama,3.9
+279,The Lion King,Drama,3.2
+280,The Godfather: Part II,Action,2.4
+281,The Matrix,Horror,4.1
+282,The Matrix,Romance,1.9
+283,Pulp Fiction,Animation,3.8
+284,Shutter Island,Action,5
+285,The Usual Suspects,Thriller,4.2
+286,The Lion King,Thriller,2
+287,The Usual Suspects,Sci-Fi,1.4
+288,The Lord of the Rings: The Fellowship of the Ring,Drama,2.9
+289,The Departed,Thriller,4.9
+290,The Prestige,Romance,1.5
+291,The Godfather,Action,4.4
+292,Fight Club,Comedy,2.1
+293,Pulp Fiction,Horror,3.1
+294,The Empire Strikes Back,Action,2.3
+295,The Lion King,Comedy,3.2
+296,Se7en,Drama,2
+297,Shutter Island,Adventure,2.3
+298,The Lion King,Thriller,4.7
+299,Fight Club,Fantasy,4.2
+300,The Lord of the Rings: The Fellowship of the Ring,Fantasy,1.8
