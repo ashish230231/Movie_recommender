@@ -16,3 +16,6 @@ An AI powered application where you can give your desired genre as your input so
 ```bash
 https://github.com/ashish230231/Movie_recommender.git
 python agent.py
+You will get an url when you run the program click on it to reach the server and use the model
+You can also get a live url along with it which can run for 7 days
+
