@@ -4,3 +4,4 @@ torch==2.9.1
 pandas==2.3.2
 gradio==6.3.0
 llama-index-embeddings-huggingface==0.6.1
+llama-index-llms-huggingface==0.6.1
